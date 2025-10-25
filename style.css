@@ -1,0 +1,44 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  background: #fafafa;
+  color: #333;
+}
+header {
+  background: #111;
+  color: #fff;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav a {
+  color: #fff;
+  margin-left: 1rem;
+  text-decoration: none;
+}
+.hero {
+  text-align: center;
+  padding: 4rem 1rem;
+  background: #eee;
+}
+.reviews {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1rem;
+  background: #111;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #111;
+  color: #fff;
+}
